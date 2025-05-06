@@ -18,8 +18,8 @@ This repository explores the development of Connect 4-playing agents using reinf
    git clone https://github.com/your-username/connect4-rl.git
    cd connect4-rl
 2. Install required dependencies:
-```bash
-   pip instsall tensorflow torch numpy ```
+   ```bash
+   pip instsall tensorflow torch numpy
 4. Open and run the notebooks using Jupyter or your preferred environment.
 
 ## Project Overview
