@@ -10,6 +10,7 @@ This repository explores the development of Connect 4-playing agents using reinf
 | `FinalModelComparison.ipynb` | Loads various models (Keras and PyTorch) and compares them in test scenarios. |
 | `RoundRobinTournament.ipynb` | Runs a round-robin tournament to evaluate all models against each other.     |
 | `TrainedModel.h5`          | A trained Keras model for Connect 4 based on reinforcement learning.        |
+| `Connect4_RL_ProjectReport.pdf` | Project report detailing each specific step and task of this project. |
 
 ## Getting Started
 
